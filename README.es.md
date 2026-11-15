@@ -29,13 +29,15 @@ Recopilación y organización de requisitos, estudios de modelado de datos, docu
 | API y persistencia de datos | Próximas etapas; los ejemplos del manual son orientaciones. |
 | Autenticación y autorización | Planificadas, todavía sin implementar en esta edición. |
 | Pruebas automatizadas e integración continua | Pendientes de desarrollo. |
-| Demostración pública ejecutable | Todavía no disponible. |
+| Prototipo público | Navegable, con datos de demostración y sin backend. |
 
-## Muestra real de código
+## Prototipo navegable
 
-La [página inicial en TypeScript/JSX](amostra/page.tsx) es una copia seleccionada de la interfaz actual. Contiene la estructura visual del formulario y no implementa el almacenamiento de datos.
+[**Abrir el prototipo en el navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [Ver el prototipo en PDF](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
-Este repositorio presenta el caso de estudio y una muestra; no contiene una aplicación completa para instalar o ejecutar. La muestra conserva las etiquetas originales en portugués.
+El prototipo presenta las pantallas de resumen, viajes, gastos e informes, con datos de demostración e interacciones simuladas para validar la experiencia y los flujos propuestos.
+
+Las pantallas están en portugués. No hay autenticación ni conexión con una base de datos; los viajes añadidos en la interfaz son temporales y desaparecen al recargar la página. El prototipo está separado de la aplicación Next.js en desarrollo.
 
 ## Tecnologías
 
@@ -75,4 +77,4 @@ Propietario de la marca N-Services, futura empresa en fase de estudio y planific
 
 ## Licencia
 
-La muestra de código incluye la licencia MIT del proyecto original. Consulta [LICENSE](LICENSE).
+El prototipo incluye la licencia MIT del proyecto original. Consulta [LICENSE](LICENSE).

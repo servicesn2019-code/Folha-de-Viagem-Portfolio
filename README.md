@@ -29,13 +29,15 @@ Levantamento e organização de requisitos, estudos de modelagem de dados, docum
 | APIs e persistência de dados | Próximas etapas; os exemplos do manual são orientações. |
 | Autenticação e autorização | Planejadas, ainda sem implementação nesta edição. |
 | Testes automatizados e integração contínua | A desenvolver. |
-| Demonstração pública executável | Ainda não disponível. |
+| Protótipo público | Navegável, com dados de demonstração e sem backend. |
 
-## Amostra real de código
+## Protótipo navegável
 
-A [página inicial em TypeScript/JSX](amostra/page.tsx) é uma cópia selecionada da interface atual. Ela contém a estrutura visual do formulário e não implementa gravação de dados.
+[**Abrir o protótipo no navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [Visualizar protótipo em PDF](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
-Este repositório apresenta o estudo de caso e uma amostra; não contém uma aplicação completa para instalação ou execução.
+O protótipo apresenta as telas de visão geral, viagens, despesas e relatórios, com dados de demonstração e interações simuladas. Foi criado para validar a experiência e os fluxos propostos.
+
+As telas estão em português. Não há autenticação nem conexão com banco de dados; os registros de viagem adicionados na interface são temporários e desaparecem ao recarregar a página. O protótipo é separado da aplicação Next.js em desenvolvimento.
 
 ## Tecnologias
 
@@ -75,4 +77,4 @@ Proprietário da marca N-Services, futura empresa em fase de estudos e planejame
 
 ## Licença
 
-A amostra de código acompanha a licença MIT do projeto de origem. Consulte [LICENSE](LICENSE).
+O protótipo acompanha a licença MIT do projeto de origem. Consulte [LICENSE](LICENSE).

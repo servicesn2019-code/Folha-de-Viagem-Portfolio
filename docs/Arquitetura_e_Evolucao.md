@@ -10,7 +10,7 @@ O projeto interno contém uma aplicação Next.js com App Router e TypeScript. A
 
 Interface → validação no servidor/API → autorização → persistência no banco → resposta à interface.
 
-Esse fluxo é uma proposta de evolução. Nesta edição, a amostra publicada demonstra apenas a interface inicial.
+Esse fluxo é uma proposta de evolução. O protótipo público simula os fluxos de interface sem implementar o backend pretendido.
 
 ## Decisões a confirmar
 

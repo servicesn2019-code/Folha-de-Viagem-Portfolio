@@ -10,7 +10,7 @@ The internal project contains a Next.js application with App Router and TypeScri
 
 Interface → server/API validation → authorisation → database persistence → response to the interface.
 
-This workflow is a development proposal. In this edition, the published sample demonstrates only the initial interface.
+This workflow is a development proposal. The public prototype simulates interface workflows without implementing the intended backend.
 
 ## Decisions to confirm
 

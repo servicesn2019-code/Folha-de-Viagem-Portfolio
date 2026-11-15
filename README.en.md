@@ -29,13 +29,15 @@ Requirements gathering and organisation, data modelling studies, technical docum
 | APIs and data persistence | Next steps; manual examples are guidance. |
 | Authentication and authorisation | Planned; not implemented in this edition. |
 | Automated testing and continuous integration | To be developed. |
-| Public runnable demo | Not yet available. |
+| Public prototype | Interactive, with demonstration data and no backend. |
 
-## Real code sample
+## Interactive prototype
 
-The [TypeScript/JSX home page](amostra/page.tsx) is a selected copy of the current interface. It contains the form's visual structure and does not implement data storage.
+[**Open the prototype in your browser**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [View the PDF prototype](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
-This repository provides a case study and sample; it does not contain a complete application to install or run. The sample retains its original Portuguese labels.
+The prototype presents overview, journeys, expenses and reports screens, using demonstration data and simulated interactions to validate the proposed user experience and workflows.
+
+The screens are in Portuguese. There is no authentication or database connection; journey entries added through the interface are temporary and disappear on reload. The prototype is separate from the Next.js application under development.
 
 ## Technologies
 
@@ -75,4 +77,4 @@ Owner of the N-Services brand, a future company currently in the research and pl
 
 ## Licence
 
-The code sample includes the MIT licence from the original project. See [LICENSE](LICENSE).
+The prototype includes the MIT licence from the original project. See [LICENSE](LICENSE).
