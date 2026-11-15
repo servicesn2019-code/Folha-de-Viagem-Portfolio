@@ -37,7 +37,11 @@ Levantamento e organização de requisitos, estudos de modelagem de dados, docum
 
 O protótipo apresenta as telas de visão geral, viagens, despesas e relatórios, com dados de demonstração e interações simuladas. Foi criado para validar a experiência e os fluxos propostos.
 
-As telas estão em português. Não há autenticação nem conexão com banco de dados; os registros de viagem adicionados na interface são temporários e desaparecem ao recarregar a página. O protótipo é separado da aplicação Next.js em desenvolvimento.
+As telas estão disponíveis em português, inglês e espanhol. Não há autenticação nem conexão com banco de dados; os registros de viagem adicionados na interface são temporários e desaparecem ao recarregar a página. O protótipo é separado da aplicação Next.js em desenvolvimento.
+
+### PDFs do protótipo — versão 3.0
+
+[Gestor — PDF](prototipo/pdf/Prototipo_Gestor_PT.pdf) · [Condutor individual — PDF](prototipo/pdf/Prototipo_Condutor_PT.pdf)
 
 ## Tecnologias
 

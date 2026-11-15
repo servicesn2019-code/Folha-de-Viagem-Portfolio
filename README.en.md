@@ -33,11 +33,15 @@ Requirements gathering and organisation, data modelling studies, technical docum
 
 ## Interactive prototype
 
-[**Open the prototype in your browser**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [Initial prototype PDF (historical version)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
+[**Open the prototype in your browser**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.en.html) · [Initial prototype PDF (historical version)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
 The prototype presents overview, journeys, expenses and reports screens, using demonstration data and simulated interactions to validate the proposed user experience and workflows.
 
-The screens are in Portuguese. There is no authentication or database connection; journey entries added through the interface are temporary and disappear on reload. The prototype is separate from the Next.js application under development.
+The screens are available in Portuguese, English and Spanish. There is no authentication or database connection; journey entries added through the interface are temporary and disappear on reload. The prototype is separate from the Next.js application under development.
+
+### Prototype PDFs — version 3.0
+
+[Manager — PDF](prototipo/pdf/Prototipo_Gestor_EN.pdf) · [Individual driver — PDF](prototipo/pdf/Prototipo_Condutor_EN.pdf)
 
 ## Technologies
 
