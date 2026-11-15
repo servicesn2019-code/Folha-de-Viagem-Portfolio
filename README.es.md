@@ -33,7 +33,7 @@ Recopilación y organización de requisitos, estudios de modelado de datos, docu
 
 ## Prototipo navegable
 
-[**Abrir el prototipo en el navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [Ver el prototipo en PDF](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
+[**Abrir el prototipo en el navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [PDF de la versión inicial (archivo histórico)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
 El prototipo presenta las pantallas de resumen, viajes, gastos e informes, con datos de demostración e interacciones simuladas para validar la experiencia y los flujos propuestos.
 

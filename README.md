@@ -33,7 +33,7 @@ Levantamento e organização de requisitos, estudos de modelagem de dados, docum
 
 ## Protótipo navegável
 
-[**Abrir o protótipo no navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [Visualizar protótipo em PDF](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
+[**Abrir o protótipo no navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [PDF da versão inicial (arquivo histórico)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
 O protótipo apresenta as telas de visão geral, viagens, despesas e relatórios, com dados de demonstração e interações simuladas. Foi criado para validar a experiência e os fluxos propostos.
 
