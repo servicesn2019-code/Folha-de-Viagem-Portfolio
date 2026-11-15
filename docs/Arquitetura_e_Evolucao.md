@@ -1,3 +1,5 @@
+[Português](Arquitetura_e_Evolucao.md) | [English](Architecture_and_Evolution.en.md) | [Español](Arquitectura_y_Evolucion.es.md)
+
 # Arquitetura e evolução
 
 ## Base existente

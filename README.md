@@ -1,3 +1,5 @@
+[Português](README.md) | [English](README.en.md) | [Español](README.es.md)
+
 # Folha de Viagem
 
 <img src="assets/Logo_Viagens.png" alt="Logo do sistema Viagens" width="320" />
