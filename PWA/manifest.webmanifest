@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Folha de Viagem",
+  "short_name": "Folha de Viagem",
+  "lang": "pt-PT",
+  "description": "Área do funcionário com demonstração em português, espanhol e inglês.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#146348",
+  "background_color": "#edf2f5",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
