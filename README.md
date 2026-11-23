@@ -35,9 +35,11 @@ Levantamento e organização de requisitos, estudos de modelagem de dados, docum
 
 [**Abrir o protótipo no navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/) · [PDF da versão inicial (arquivo histórico)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
-O protótipo apresenta as telas de visão geral, viagens, despesas e relatórios, com dados de demonstração e interações simuladas. Foi criado para validar a experiência e os fluxos propostos.
+A demonstração atual apresenta a área do funcionário: entrada simulada, registo e edição de viagens, consulta pessoal, relatório mensal imprimível e mensagens ao gestor. As datas de viagem são apresentadas sem horas e as siglas dos países vêm acompanhadas de bandeiras em miniatura.
 
-As telas estão disponíveis em português, inglês e espanhol. Não há autenticação nem conexão com banco de dados; os registros de viagem adicionados na interface são temporários e desaparecem ao recarregar a página. O protótipo é separado da aplicação Next.js em desenvolvimento.
+Use **Ana Martins** com a senha de demonstração **1234**. Os dados são fictícios e as alterações desaparecem ao recarregar a página.
+
+A [demonstração anterior](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.legacy.html) permanece disponível em português, [inglês](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.en.html) e [espanhol](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.es.html).
 
 ### PDFs do protótipo — versão 3.0
 
