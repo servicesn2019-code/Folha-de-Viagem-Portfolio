@@ -33,9 +33,9 @@ Requirements gathering and organisation, data modelling studies, technical docum
 
 ## Interactive prototype
 
-[**Open the prototype in your browser**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/Prototipo_Folha_de_Viagem_v1.6.en.html) · [Initial prototype PDF (historical version)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
+[**Open the prototype in your browser**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/Prototipo_Folha_de_Viagem_v1.8.en.html) · [Initial prototype PDF (historical version)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
-**Trip Log** is the English employee demo. It includes simulated sign-in, trip entry and editing, personal trip history, a printable monthly report and messages to the fleet manager. Dates are shown as **23 Nov 2026** in trip history and reports.
+**Trip Log** is the English employee demo. It includes simulated sign-in, trip entry and editing, personal trip history, a printable monthly report, fuel logging and monthly totals, and contact detail change requests. Dates are shown as **23 Nov 2026** in trip history and reports.
 
 Search for **Ana Martins** and use the demo password **1234**. The sample data resets when the page is reloaded. [Earlier demo](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.en.html).
 

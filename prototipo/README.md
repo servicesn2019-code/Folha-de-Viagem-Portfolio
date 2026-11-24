@@ -2,7 +2,7 @@
 
 [**Abrir a demonstração atual da área do funcionário**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/)
 
-Versão 1.6 em [português](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/), [espanhol](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/Prototipo_Folha_de_Viagem_v1.6.es.html) e [inglês britânico](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/Prototipo_Folha_de_Viagem_v1.6.en.html), com dados fictícios. Para entrar, procure **Ana Martins** e use a senha **1234**. A demonstração inclui registo, edição, consulta, relatório mensal e contacto com o gestor.
+Versão 1.8 em [português](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/), [espanhol](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/Prototipo_Folha_de_Viagem_v1.8.es.html) e [inglês britânico](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/Prototipo_Folha_de_Viagem_v1.8.en.html), com dados fictícios. Para entrar, procure **Ana Martins** e use a senha **1234**. A demonstração inclui registo, edição, consulta, relatório mensal, registo e consulta de consumos e pedidos de alteração de contactos.
 
 ## Demonstração anterior e PDFs — versão 3.0
 

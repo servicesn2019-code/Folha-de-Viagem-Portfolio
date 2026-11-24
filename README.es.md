@@ -33,9 +33,9 @@ Recopilación y organización de requisitos, estudios de modelado de datos, docu
 
 ## Prototipo navegable
 
-[**Abrir el prototipo en el navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/Prototipo_Folha_de_Viagem_v1.6.es.html) · [PDF de la versión inicial (archivo histórico)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
+[**Abrir el prototipo en el navegador**](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/Prototipo_Folha_de_Viagem_v1.8.es.html) · [PDF de la versión inicial (archivo histórico)](prototipo/Prototipo_Folha_de_Viagem_v1.pdf)
 
-**Rutas** es la versión en español de la demostración para empleados. Incluye acceso simulado, registro y edición de viajes, consulta personal, informe mensual imprimible y mensajes al gestor. Las fechas se muestran como **23/11/2026** en la consulta y el informe.
+**Rutas** es la versión en español de la demostración para empleados. Incluye acceso simulado, registro y edición de viajes, consulta personal, informe mensual imprimible, registro y consulta de consumos y solicitudes de cambio de datos de contacto. Las fechas se muestran como **23/11/2026** en la consulta y el informe.
 
 Busque a **Ana Martins** y use la contraseña de demostración **1234**. Los datos de ejemplo se restablecen al recargar la página. [Demostración anterior](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.es.html).
 
