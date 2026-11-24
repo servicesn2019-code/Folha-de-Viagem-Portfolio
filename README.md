@@ -43,9 +43,13 @@ Use **Ana Martins** com a senha de demonstração **1234**. Os dados são fictí
 
 A [demonstração anterior](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.legacy.html) permanece disponível em português, [inglês](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.en.html) e [espanhol](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.es.html).
 
-### PDFs do protótipo — versão 3.0
+### PDF atual do funcionário — v1.9
 
-[Gestor — PDF](prototipo/pdf/Prototipo_Gestor_PT.pdf) · [Condutor individual — PDF](prototipo/pdf/Prototipo_Condutor_PT.pdf)
+[PDF atual do funcionário — v1.9](prototipo/pdf/Prototipo_Condutor_PT.pdf)
+
+### PDFs históricos — versão 3.0
+
+[Gestor — PDF histórico](prototipo/pdf/Prototipo_Gestor_PT.pdf) · [Condutor — PDF histórico](prototipo/pdf/Prototipo_Condutor_PT_v3.0.pdf)
 
 ## Tecnologias
 

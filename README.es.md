@@ -39,9 +39,13 @@ Recopilación y organización de requisitos, estudios de modelado de datos, docu
 
 Busque a **Ana Martins** y use la contraseña de demostración **1234**. Los datos de ejemplo se restablecen al recargar la página. [Demostración anterior](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.es.html).
 
-### PDF del prototipo — versión 3.0
+### PDF actual del empleado — v1.9
 
-[Gestor — PDF](prototipo/pdf/Prototipo_Gestor_ES.pdf) · [Conductor individual — PDF](prototipo/pdf/Prototipo_Condutor_ES.pdf)
+[PDF actual del empleado — v1.9](prototipo/pdf/Prototipo_Condutor_ES.pdf)
+
+### PDF históricos — versión 3.0
+
+[Gestor — PDF histórico](prototipo/pdf/Prototipo_Gestor_ES.pdf) · [Conductor — PDF histórico](prototipo/pdf/Prototipo_Condutor_ES_v3.0.pdf)
 
 ## Tecnologías
 

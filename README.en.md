@@ -39,9 +39,13 @@ Requirements gathering and organisation, data modelling studies, technical docum
 
 Search for **Ana Martins** and use the demo password **1234**. The sample data resets when the page is reloaded. [Earlier demo](https://servicesn2019-code.github.io/Folha-de-Viagem-Portfolio/prototipo/index.en.html).
 
-### Prototype PDFs — version 3.0
+### Current employee PDF — v1.9
 
-[Manager — PDF](prototipo/pdf/Prototipo_Gestor_EN.pdf) · [Individual driver — PDF](prototipo/pdf/Prototipo_Condutor_EN.pdf)
+[Current employee PDF — v1.9](prototipo/pdf/Prototipo_Condutor_EN.pdf)
+
+### Historical PDFs — version 3.0
+
+[Manager — historical PDF](prototipo/pdf/Prototipo_Gestor_EN.pdf) · [Driver — historical PDF](prototipo/pdf/Prototipo_Condutor_EN_v3.0.pdf)
 
 ## Technologies
 
